@@ -1,0 +1,19 @@
+
+#footer .footer-copyright p{
+    text-align: center;
+    color:white;
+}
+
+#footer .footer-copyright{
+    height: 70px;
+    background-color:black;
+    line-height: 70px;
+}
+
+#footer .footer-copyright img{
+    height: 50px;
+    width: 50px;
+}
+#footer .footer-copyright a{
+    color:white;
+}

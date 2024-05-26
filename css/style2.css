@@ -1,0 +1,16 @@
+
+@import "https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.3/flexslider.min.css";
+
+.flexslider {
+	height: 60vh;
+	overflow: hidden;
+	border:0px;
+}
+.flexslider img {
+	object-fit: cover;
+}
+.flexslider, .flex-viewport, .slides, img {
+			max-height: 60vh;
+			height: auto;
+}
+
